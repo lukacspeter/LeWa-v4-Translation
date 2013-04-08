@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="import_to">Importálás hova</string>
+    <string name="import_button">Importálás</string>
+    <string name="cancel">Mégsem</string>
+    <string name="no_access_toast">Nem található fiók. Kérem, először adjon hozzá a készülékéhez egyet</string>
+    <string name="null_name">Nincs</string>
+    <string name="import_message">Importálni akarja a(z) # eseményt a naptárba?</string>
+    <string name="name_lable">"Név: "</string>
+    <string name="calendar_lable">"Naptár: "</string>
+    <string name="date_lable">"Dátum: "</string>
+    <string name="import_title">Naptár események importálása</string>
+    <string name="importing">Importálás ...</string>
+    <string name="import_complete">Az importálás befejeződött</string>
+    <string name="open">Megnyit</string>
+    <string name="done">Kész</string>
+    <string name="progresszero">0%</string>
+    <string name="no_syncable_calendars">Nincsenek naptárak</string>
+    <string name="no_calendars_found">Önnek még nincsenek naptárai.</string>
+    <string name="vcs_import_failed">"A vCalendar importálása nem sikerült."</string>
+</resources>
